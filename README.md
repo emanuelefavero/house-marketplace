@@ -13,4 +13,3 @@ The listings use Google geocoding to get the coords from the address field. You 
 ```bash
 npm start
 ```
-# house-marketplace
