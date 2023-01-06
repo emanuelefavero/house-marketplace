@@ -26,3 +26,7 @@ REACT_APP_GEOCODE_API_KEY="YOUR GEOCODE API KEY"
 npm i
 npm start
 ```
+
+## License
+
+- [MIT](LICENSE.md)
