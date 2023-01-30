@@ -20,6 +20,8 @@ Test App on Vercel: [https://house-marketplace-sigma-three.vercel.app/](https://
 REACT_APP_GEOCODE_API_KEY="YOUR GEOCODE API KEY"
 ```
 
+> Note: You can find your Google Geocode API key in the [Google Cloud Console](https://console.cloud.google.com/apis/credentials) in the credentials section (be sure to be in the correct project)
+
 - install dependencies and run the app:
 
 ```bash
